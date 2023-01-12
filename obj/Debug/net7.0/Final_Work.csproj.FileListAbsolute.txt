@@ -1,0 +1,15 @@
+C:\Users\ADMIN_1_A\Desktop\Final_Work\bin\Debug\net7.0\Final_Work.exe
+C:\Users\ADMIN_1_A\Desktop\Final_Work\bin\Debug\net7.0\Final_Work.deps.json
+C:\Users\ADMIN_1_A\Desktop\Final_Work\bin\Debug\net7.0\Final_Work.runtimeconfig.json
+C:\Users\ADMIN_1_A\Desktop\Final_Work\bin\Debug\net7.0\Final_Work.dll
+C:\Users\ADMIN_1_A\Desktop\Final_Work\bin\Debug\net7.0\Final_Work.pdb
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.csproj.AssemblyReference.cache
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.AssemblyInfoInputs.cache
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.AssemblyInfo.cs
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.dll
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\refint\Final_Work.dll
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.pdb
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\Final_Work.genruntimeconfig.cache
+C:\Users\ADMIN_1_A\Desktop\Final_Work\obj\Debug\net7.0\ref\Final_Work.dll
